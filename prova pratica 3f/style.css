@@ -1,0 +1,38 @@
+*{
+    height: auto;
+    width: auto;
+    color: #0d083b;
+    padding: 0px;
+    background-color: #bed3ed;
+}
+#cabecalho{
+    height: 80px;
+    margin: none;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+/* tentei colocar os icons porem nao conseguir colocar na foto ou embaixo*/
+.caixa1{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.caixa2{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caixa3{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rodape-marca{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
